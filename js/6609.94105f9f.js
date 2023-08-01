@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue3_test"]=self["webpackChunkvue3_test"]||[]).push([[6609],{26609:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var s=function(){var e=this,t=e._self._c;return t("div",{staticClass:"content"})},a=[],r={data(){return{}},created(){location.replace("https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.dps.founderreader")},methods:{}},u=r,c=n(1001),o=(0,c.Z)(u,s,a,!1,null,"10f6ca18",null),l=o.exports}}]);
-//# sourceMappingURL=6609.94105f9f.js.map
